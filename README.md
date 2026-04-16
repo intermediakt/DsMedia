@@ -7,7 +7,7 @@
 Created by [Charalambos Rentoumis](https://github.com/5skr0ll3r)
 
 ## Overview
-The **IMKT DsMedia Plugin** is a WordPress plugin that bypasses the cart and checkout processes for digital downloadables and signs each downloaded file with a unique identifier so you can trace the leak back to a user, it provides basic metrics for the downloaded products and has a backup and restore from backup functinalities. Supports download from cdn with or without cookie authentication and products uploaded directly to wordpress.
+The **IMKT DsMedia Plugin** is a WordPress plugin that bypasses the cart and checkout processes for digital downloadables and signs each downloaded file with a unique identifier so you can trace the leak back to a user, it provides basic metrics for the downloaded products and has a backup and restore from backup functionalities. Supports download from cdn with or without header authentication and products uploaded directly to wordpress.
 
 ## Why
 This plugin was created with the intent of not having to deal with the whole cart and checkout process of woocommerce for free digital downloadable products .
